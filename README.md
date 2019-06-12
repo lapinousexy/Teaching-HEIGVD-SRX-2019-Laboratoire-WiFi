@@ -1,10 +1,15 @@
 # Teaching-HEIGVD-SRX-2019-Laboratoire-WiFi
 
+Vous aurez besoin de ``Wireshark`` et du logiciel ``aircrack-ng`` pour ce laboratoire. 
+
+Si vous utilisez une distribution Kali, tout est déjà pré-installé. Pour la version Windows du logiciel ``aircrack-ng``ou pour son installation sur d'autres distributions, référez-vous au
+[site web aircrack-ng](https://aircrack-ng.org) et/ou au gestionnaire de paquets de votre distribution.
+ 
 # Identification d'un dispositif
 
 ## Introduction
 
-L’objectif de ce laboratoire est de vous familiariser avec les captures provenant de l’interception de données sans fils et de comprendre quels types d’informations utiles peuvent être obtenues à partir des dites captures.
+L’objectif de cette partie est de vous familiariser avec les captures provenant de l’interception de données sans fils et de comprendre quels types d’informations utiles peuvent être obtenues à partir des dites captures.
 
 Comme vous l’avez étudié dans le cours théorique, l’environnement le plus adapté et riche pour capturer et analyser/exploiter les données des réseaux sans-fils est Linux. Pourtant, une machine Windows peut être utilisée avec ``Wireshark`` pour analyser du trafic déjà capturé par d’autres moyens. L’outil le plus utilisé pour le craquage de réseaux sans fils, la suite ``aircrack``, est aussi disponible sur Windows. Malgré les limitations imposées par la carence de drivers en mode monitor pour Windows pour capturer le trafic nécessaire, ``aircrack`` peut être utilisé pour analyser des captures faites par d’autres moyens et obtenir les clés WEP ou les passphrases WPA.
 
