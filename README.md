@@ -63,6 +63,7 @@ Le constructeur de l'interface sans-fil est Samsung.
 > **_Question :_** Quel autres endroits la cible a-t-elle probablement visités ?
 > 
 > **_Réponse :_** 
+La Migros, l'aéroport de Genève et la boulangerie Fleurs de pains.
 
 ---
 
