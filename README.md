@@ -169,6 +169,7 @@ aircrack-ng <nom-du-fichier-capture> -w <nom-du-dictionnaire>
 > 
 > Adresse IP du serveur : ?
 > L'adresse IP est: 31.13.64.35
+
 > Nom de Domaine : ?
 > C'est l'adresse IP du site internet facebook.com.
 
