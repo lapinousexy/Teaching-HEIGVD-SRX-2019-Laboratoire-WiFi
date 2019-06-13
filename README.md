@@ -110,11 +110,13 @@ Maintenant que vous avez la clé WEP, configurez la dans Wireshark afin de déch
 > **_Question :_** Combien de temps avez-vous attendu pour obtenir la clé WEP ?
 > 
 > **_Réponse :_** 
+Moins d'une seconde.
 
 ---
 > **_Question :_** Arrivez-vous à récupérer les informations d’identification (credentials) de l’authentification basique http contenue dans la capture ?
 > 
 > **_Réponse :_** 
+Oui, en filtrant les requêtes HTTP, on peut voir un GET effectuer vers un routeur avec un header Authorization en Base64, qui donne admin:admin une fois decodé.
 
 ---
 
