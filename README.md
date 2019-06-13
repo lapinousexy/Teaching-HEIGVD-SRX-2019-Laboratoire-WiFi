@@ -43,6 +43,9 @@ Nous savons que la cible s’est hébergée à l’hôtel « Black Rain » et qu
 > **_Question :_** Quel filtre avez-vous utilisé
 > 
 > **_Réponse :_** 
+wlan.fc.type_subtype == 0x0008
+
+Source: Clique droit, "Apply as a filter".
 
 ---
 > **_Question :_** Quel est l’adresse MAC de la cible ?
