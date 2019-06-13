@@ -34,7 +34,7 @@ Nous savons que la cible s’est hébergée à l’hôtel « Black Rain » et qu
 
 ### Exercice :
 
-* Copier [le fichier de capture] (files/coursWLAN-IdentifyTarget.pcap) sur votre machine locale
+* Copier [le fichier de capture](files/coursWLAN-IdentifyTarget.pcap) sur votre machine locale
 * Ouvrir le fichier avec Wireshark
 * Analyser la capture pour déterminer l’adresse MAC du dispositif de la cible
 * Utiliser un filtre d’affichage Wireshark pour montrer uniquement les trames du type ``Probe Request`` 
