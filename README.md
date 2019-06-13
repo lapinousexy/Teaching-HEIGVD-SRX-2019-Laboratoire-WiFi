@@ -51,11 +51,13 @@ Source: Clique droit, "Apply as a filter".
 > **_Question :_** Quel est l’adresse MAC de la cible ?
 > 
 > **_Réponse :_** 
+L'adresse est: fc:f1:36:22:49:74.
 
 ---
 > **_Question :_** Quel est le nom du constructeur de l’interface sans fils de la cible ?
 > 
 > **_Réponse :_** 
+Le constructeur de l'interface sans-fil est Samsung.
 
 ---
 > **_Question :_** Quel autres endroits la cible a-t-elle probablement visités ?
