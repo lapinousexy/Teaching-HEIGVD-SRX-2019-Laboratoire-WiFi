@@ -43,7 +43,7 @@ Nous savons que la cible s’est hébergée à l’hôtel « Black Rain » et qu
 > **_Question :_** Quel filtre avez-vous utilisé
 > 
 > **_Réponse :_** 
-wlan.fc.type_subtype == 0x0008
+wlan.fc.type_subtype == 0x0004
 
 Source: Clique droit, "Apply as a filter".
 
